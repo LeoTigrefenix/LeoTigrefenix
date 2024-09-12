@@ -16,7 +16,7 @@
 Salve! Me chamo Leonardo, sou desenvolvedor backend com experiência sólida em Node.js e apaixonado por gerar energia, seja interagindo e motivando as pessoas ou realizando um processo de desenvolvimento pessoal e crescimento, para aumentar a energia ou potência interna, tornar mais capaz de realizar os objetivos, viver de forma mais plena, e expressar a essência de maneira mais poderosa.
 Tenho um forte interesse em análise de dados, arquitetura de software, design de APIs e DevOps.
 
-- 🖥️ Atualmente trabalhando como desenvolvedor backend pleno.
+- 🖥️ Atualmente trabalhando como desenvolvedor backend.
 - 🌱 Sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento. Atualmente estou fazendo o curso de PM na [Tera](https://somostera.com) e também o Santander 2024 - Fundamentos de IA para Devs na [Dio](https://web.dio.me)
 - 🔧 Habilidades em Node.js, AWS, Docker, Docker Compose, PM2, MySQL, MongoDB, Python.
 - 📚 Interesses em banco de dados NoSQL e SQL com Node.js e, também, Python para análise e predição de dados, automação e scripts. Tenho conhecimento básico em Typescript, Java, C e C++.
