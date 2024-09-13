@@ -26,30 +26,33 @@ Tenho um forte interesse em análise de dados, arquitetura de software, design d
 ## Experiência na Startup Hion Tecnologia
 **Desenvolvedor Backend** (2022 - atualmente)
 
-- Planejamento e desenvolvimento de uma plataforma online para gestores de operação logística com telemetria IoT. 
-- Desenvolvimento de upgrades para a plataforma coordenando a integração entre os grupos de eletrônica embarcada e frontend, além de projetar o backend adicionando: 
-
-    -> Telas de metas de operação, para gestores, com cálculos de desempenho da operação diário, mensal e anual. 
-
-    ->Telas dedicadas a professores em cursos sobre bateria de lítio, com telemetria via IoT.
-
-- Planejamento, desenvolvimento e manutenção do Backend NodeJS para as plataformas interativas HiON, utilizando bancos de dados SQL, MongoDB,  AWS RDS e EC2, e Docker, tanto local quanto em produção.
-- Versionamento das plataformas.
-- Desenvolvimento e implementação das APIs para telemetria em tempo real (LoRaWAN, HTTPS e MQTT) e das APIs de interação com a plataforma web.
-- Realização de auditoria externa de qualidade e segurança operacional  em baterias de lítio.
-- Participação no desenvolvimento e montagem de uma bateria de Lítio para um veículo híbrido e flex, bem como uma bateria inteligente de Lítio para equipamentos de transporte e logística. Foco na conformidade com as normas IEC 62660 e IP55.
-- Pesquisa e desenvolvimento de pequenos projetos paralelos em sistemas embarcados, alta conectividade IoT, gêmeo digital, compactação de dados, criptografia e gestão de baterias de lítio.
+- Olhar crítico  e senso de dono no planejamento, design, desenvolvimento e manutenção do Backend NodeJS para as plataformas interativas HiON, utilizando bancos de dados SQL, MongoDB,  AWS RDS. Deploy na EC2 via Docker Compose. Quebra da antiga arquitetura monolítica para micro serviços ( microsserviços ). 
+- Proposta de soluções que atendam aos objetivos de negócio por meio do desenvolvimento e implementação das API para telemetria em tempo real (LoRaWAN, HTTPS e MQTT) e REST API para interação com a plataforma.
+- Aplicação de  métodos diferentes de autenticação e autorização com  Basic Auth, Bearer Token, JWT.
+- Desenvolvimento de upgrades para a plataforma coordenando a integração entre os grupos de eletrônica embarcada e frontend, além de projetar o backend para os upgrades que foram: 
+    - Telas de metas de operação, para gestores, com cálculos de desempenho da operação.
+    - Telas dedicadas a professores em cursos sobre bateria de lítio, com telemetria via IoT.
+- Colaboração ativa na gestão da integração entre equipes de eletrônica, frontend e backend. E apresentação quinzenal da evolução destas áreas aos donos da startup.
+- Oportunidades de aprendizado e adaptação a novas tecnologias com desenvolvimento de pequenos projetos paralelos: sistemas embarcados, alta conectividade IoT, gêmeo digital, compactação de dados e criptografia de telemetria e criptografia de login.
+- Apresentação técnica do produto de análise de células de lítio para os clientes finais
 
 
 ## Principais Habilidades
-
-- Desenvolvimento e manutenção de APIs RESTful em Node.js.
-- Uso avançado de Docker e Docker Compose para ambientes de desenvolvimento e produção.
+🪨 hard
+- Desenvolvimento e manutenção de APIs REST em Node.js.
+- Uso de Docker e Docker Compose para ambientes de desenvolvimento e produção.
+- Tratamento, Armazenamento e Análise de dados.
 - Gerenciamento de processos em produção usando PM2.
 - Banco de dados relacional: MySQL.
 - Banco de dados NoSQL: MongoDB.
 - Conhecimentos básicos em Python.
 - Familiaridade com Java, C e C++.
+☁️ soft
+- Lifelong Learning
+- Olhar atento e criatividade para implementação de melhorias
+- Multi-Threading (consido gerenciar várias tarefas de escopos diferentes durante o dia a dia)
+- inteligência emocional (em desenvolvimento)
+- Liderança (facilidade em remediar conflitos, motivar pessoas, perceber talentos e alimentá-los, caminhar junto apontando/abrindo o caminho e criar novos lideres)
 
 ## Educação
 
